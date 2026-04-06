@@ -729,7 +729,7 @@
 
         // --- my code change
             {
-                id: 'phones',
+                id: 'phoness',
                 name: 'Landline',
                 icon: 'fa-mobile-alt'
             },
