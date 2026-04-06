@@ -726,6 +726,18 @@
                 name: 'Smartphones',
                 icon: 'fa-mobile-alt'
             },
+
+        // --- my code change
+            {
+                id: 'phones',
+                name: 'Landline',
+                icon: 'fa-mobile-alt'
+            },
+
+
+        -------------
+
+
             {
                 id: 'laptops',
                 name: 'Laptops',
